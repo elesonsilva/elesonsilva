@@ -1,7 +1,7 @@
 ### Olá tudo bem? 👋
 
 - 🔭 em busca do primeiro emprego na área.
-- 🌱 Estudando front-end e design ux
+- 🌱 Estudando front-end e Angular.
 - 💬 quando desistir não é uma opção o sucesso é inevitavel.
 
  ![elesonsilva GitHub stats](https://github-readme-stats.vercel.app/api?username=elesonsilva&show_icons=true&theme=dark)
